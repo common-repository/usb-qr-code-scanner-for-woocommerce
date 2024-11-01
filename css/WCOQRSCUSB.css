@@ -1,0 +1,111 @@
+#loaderimage 
+{
+
+  display: none;
+position: fixed;
+    z-index: 10001;
+    top: 50%;
+    right: 40%;
+}
+.removeproduct {
+    background-color: #e72828 !important;
+    width: 30px;
+    padding: 0px;
+    height: 30px;
+    float: right;
+    margin-top: 10px;
+}
+.print_header,.print_footer 
+{
+
+  display: none;
+}
+#wcoqrscubd_cart_html table 
+{
+   
+   text-align: center;
+}
+
+@page { size: auto;  margin: 0mm; }
+/*
+@media print {
+  body {
+    color: black;
+  }
+  header ,footer,button,input
+  {
+   
+   display: none;
+  }
+  
+  tr td:first-child{ display:none; }
+  tr th:first-child{ display:none; }
+
+
+  .print_header,.print_footer 
+{
+
+  display: block;
+}
+
+*{
+     font-size : 22px;
+
+}
+
+html, body, span, table, tr, td ,th{
+        font-size : 22px;
+
+}
+
+}*/
+
+@media print {
+
+
+  body * {
+    visibility: hidden;
+    color: black;
+  }
+  #section-to-print, #section-to-print * {
+    visibility: visible;
+  }
+  
+  #section-to-print button ,  #section-to-print input {
+    visibility: hidden;
+  }
+    .print_header,.print_footer 
+{
+
+ display: block;
+ margin:5px;
+}
+
+.no-print ,page-title,header{
+    display: none;
+  }
+
+  #section-to-print {
+    width:100%;
+     position: fixed;
+    left: 0;
+    top: 0;
+    padding:5px;
+    margin:0px;
+    text-align:center;
+ font-size : 17px;
+  }
+
+*{
+     font-size : 17px;
+
+}
+
+html, body, span, table, tr, td ,th,bdi{
+        font-size : 17px;
+
+}
+
+
+}
+

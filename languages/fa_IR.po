@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wc Order Qrcode Scanner USB\n"
+"POT-Creation-Date: 2023-03-18 12:08-0700\n"
+"PO-Revision-Date: 2023-03-18 12:12-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-order-qrcode-usb.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wc-order-qrcode-usb-options.php:28
+msgid "Usb Barcode Scanner settings"
+msgstr "تنظیمات بارکد اسکنر"
+
+#: wc-order-qrcode-usb-options.php:124 wc-order-qrcode-usb-options.php:204
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: wc-order-qrcode-usb-options.php:177
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: wc-order-qrcode-usb-options.php:207
+msgid "Header (text or html code) For Printer"
+msgstr "سربرگ ( متن یا کد اچ تی ام ال ) برای پرینتر"
+
+#: wc-order-qrcode-usb-options.php:208
+msgid "Footer (text or html code) For Printer"
+msgstr "پاورقی ( متن یا کد اچ تی ام ال ) برای پرینتر"
+
+#: wc-order-qrcode-usb.php:64 wc-order-qrcode-usb.php:94
+msgid ""
+"To create a barcode, you need to activate the PHP GD library. To activate\n"
+"Contact the hosting manager"
+msgstr ""
+"برای ایجاد بار کد باید کتابخانه پی اچ پی gd  را فعال کنید . لطفا با مدیر "
+"هاست تماس بگیرید "
+
+#: wc-order-qrcode-usb.php:114
+msgid "The order was successfully saveed"
+msgstr "سفارش با موفقیت ذخیره و ثبت شد "
+
+#: wc-order-qrcode-usb.php:202
+msgid "The entered discount code is not available"
+msgstr "کد تخفیف وارد شده موجود نیست"
+
+#: wc-order-qrcode-usb.php:281
+msgid "Row"
+msgstr "سطر"
+
+#: wc-order-qrcode-usb.php:282
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: wc-order-qrcode-usb.php:283
+msgid "Price"
+msgstr "قیمت "
+
+#: wc-order-qrcode-usb.php:284
+msgid "Qty"
+msgstr "تعداد"
+
+#: wc-order-qrcode-usb.php:285 wc-order-qrcode-usb.php:343
+msgid "Subtotal"
+msgstr "جمع جزء"
+
+#: wc-order-qrcode-usb.php:325
+msgid "Discount Code"
+msgstr "کد تخفیف"
+
+#: wc-order-qrcode-usb.php:326
+msgid "Apply Discount Code"
+msgstr "اعمال کد تخفیف"
+
+#: wc-order-qrcode-usb.php:351
+msgid "Discount"
+msgstr "تخفیف"
+
+#: wc-order-qrcode-usb.php:361
+msgid "Total"
+msgstr "جمع کل"
+
+#: wc-order-qrcode-usb.php:376
+msgid "Save Order"
+msgstr "ثیت سفارش"
+
+#. Plugin Name of the plugin/theme
+msgid "Wc Order Qrcode Scanner USB"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An plugin for take   Wc Order Qrcode Scanner USB"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Behzad Rohizadeh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://behzadrohizadeh.ir"
+msgstr ""

@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Wc Order Qrcode Scanner USB\n"
+"POT-Creation-Date: 2023-03-18 12:05-0700\n"
+"PO-Revision-Date: 2023-03-18 12:05-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-order-qrcode-usb.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wc-order-qrcode-usb-options.php:28
+msgid "Usb Barcode Scanner settings"
+msgstr ""
+
+#: wc-order-qrcode-usb-options.php:124 wc-order-qrcode-usb-options.php:204
+msgid "General settings"
+msgstr ""
+
+#: wc-order-qrcode-usb-options.php:177
+msgid "Update"
+msgstr ""
+
+#: wc-order-qrcode-usb-options.php:207
+msgid "Header (text or html code)"
+msgstr ""
+
+#: wc-order-qrcode-usb-options.php:208
+msgid "Footer (text or html code)"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:64 wc-order-qrcode-usb.php:94
+msgid ""
+"To create a barcode, you need to activate the PHP GD library. To activate\n"
+"Contact the hosting manager"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:114
+msgid "The order was successfully saveed"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:202
+msgid "The entered discount code is not available"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:281
+msgid "Row"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:282
+msgid "Product Name"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:283
+msgid "Price"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:284
+msgid "Qty"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:285 wc-order-qrcode-usb.php:343
+msgid "Subtotal"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:325
+msgid "Discount Code"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:326
+msgid "Apply Discount Code"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:351
+msgid "Discount"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:361
+msgid "Total"
+msgstr ""
+
+#: wc-order-qrcode-usb.php:376
+msgid "Save Order"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wc Order Qrcode Scanner USB"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An plugin for take   Wc Order Qrcode Scanner USB"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Behzad Rohizadeh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://behzadrohizadeh.ir"
+msgstr ""
